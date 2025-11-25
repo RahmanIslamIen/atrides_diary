@@ -1,3 +1,5 @@
 # atrides_diary
 
-A new Flutter project.
+by : Rahman Islam
+
+aplikasi diari berbasis desktop untuk menulis diari
